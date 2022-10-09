@@ -3,3 +3,5 @@
 <p> Esse Projeto é em relação as Atividades Praticas Supervisionadas - APS. UNIP 4° Semestre - <b>(Ordenação de Dados)</b><br></p>
 <p> O Trabalho constituí no geoprocessamento da floresta Amazônica, onde serão catalogados 3 tipos diferentes de Ordenação de Dados:<br></p>
 <p> 1° <b>Bubble Sort</b> - Técnica onde o algoritmo organiza uma sequência de números, comparando o conjunto da esquerda com a direita e organizando suas posições caso esteja fora de ordem.
+<p> 2° <b>Selection Sort</b> - O intuíto dessa técnica é buscar os menores elementos dos vetores, movimentando-os para a esquerda, e os maiores vetores movimentando-os para a direita.
+<p> 3° <b>Comb Sort</b> - O Comb Sort é uma melhoria do Bubble Sort, eliminando os menores valores do fim da lista, possuindo uma lacuna central que divide os maiores valores dos menores.
