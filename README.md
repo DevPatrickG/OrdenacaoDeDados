@@ -1,6 +1,6 @@
 <h2><b> ORDENAÇÃO DE DADOS </b></h2>
 
-<p> Esse Projeto é uma simulação de três tipos de Ordenação de Dados <br></p>
+<p> Esse Projeto é uma simulação de Ordenação de Dados <br></p>
 <p> O Trabalho constituí no geoprocessamento da floresta Amazônica, onde serão catalogados 3 tipos diferentes de Ordenação de Dados:<br></p>
 <p> 1° <b>Bubble Sort</b> - Técnica onde o algoritmo organiza uma sequência de números, comparando o conjunto da esquerda com a direita e organizando suas posições caso esteja fora de ordem.
 <p> 2° <b>Selection Sort</b> - O intuíto dessa técnica é buscar os menores elementos dos vetores, movimentando-os para a esquerda, e os maiores vetores movimentando-os para a direita.
